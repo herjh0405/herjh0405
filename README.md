@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Good day! I`m Junghun Heo who is interested in Data Science from South Korea.
+
+I ❤️ to study about Machine Learning and Deep Learning   
+
+💪 My major is Mathematics & Computer engineering 😄
+
+If you want to contact me, please leave me a message.
+
 <!--
 **herjh0405/herjh0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
