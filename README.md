@@ -10,8 +10,10 @@ If you want to contact me, please leave me a message.
 
 ### 💫 Experience
 
-1. Student Intern - *SAP Korea*
-2. DSC(Developers Student Club) Lead at Korea (2019-2020) - *Google*
+* 1. 2020 금융빅데이터 페스티벌 팀장(미래에셋 대우 주관) - 그룹별 매수 상위종목 예측
+ *
+2. 단기산업협력 프로젝트 팀장(기업 와이폴라리스) - 머신러닝을 이용한 상권분석 서비스 개발
+3. 
 
 🌱 I’m currently researching about Classification of emotion images
 - Classification of emotion images : [repo](https://github.com/J-TKim/Classification_of_emotion_images)   
