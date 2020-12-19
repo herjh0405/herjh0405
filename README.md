@@ -10,10 +10,9 @@ If you want to contact me, please leave me a message.
 
 ### 💫 Experience
 
-1. 2020 금융빅데이터 페스티벌 팀장 
-- 그룹별 매수 상위종목 예측[repo](https://github.com/herjh0405/Data/tree/main/Project2)
-2. 단기산업협력 프로젝트 팀장(기업 와이폴라리스) 
-- 머신러닝을 이용한 상권분석 서비스 개발[repo](https://https://github.com/herjh0405/Data/tree/main/Project3)
+1. 2020 금융빅데이터 페스티벌 팀장 - 그룹별 매수 상위종목 예측[repo](https://github.com/herjh0405/Data/tree/main/Project2)
+
+2. 단기산업협력 프로젝트 팀장(기업 와이폴라리스) - 머신러닝을 이용한 상권분석 서비스 개발[repo](https://https://github.com/herjh0405/Data/tree/main/Project3)
 3. 
 
 🌱 I’m currently researching about Classification of emotion images
