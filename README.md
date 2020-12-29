@@ -12,7 +12,7 @@ If you want to contact me, please leave me a message.
 
 1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [repo](https://github.com/herjh0405/Data/tree/main/Project2)
 
-2. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://https://github.com/herjh0405/Data/tree/main/Project3)
+2. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Data/tree/main/Project3)
 
 3. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://https://github.com/herjh0405/Data/tree/main/Project_5_NIMS/)
 
