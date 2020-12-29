@@ -14,7 +14,7 @@ If you want to contact me, please leave me a message.
 
 2. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Data/tree/main/Project3)
 
-3. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://https://github.com/herjh0405/Data/tree/main/Project_5_NIMS/)
+3. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Data/tree/main/Project_5_NIMS)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herjh0405@gmail.com)](mailto:herjh0405@gmail.com)
