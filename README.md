@@ -19,9 +19,10 @@ If you want to contact me, please leave me a message.
 4. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/tree/master/Project3_KDX_%EC%86%8C%EB%B9%84%ED%8A%B8%EB%A0%8C%EB%93%9C_%EC%8B%9C%EA%B0%81%ED%99%94_(%EC%84%B1%ED%9B%88%2C%20%EB%8F%99%ED%98%84%2C%20%EC%97%B0%EC%A7%84))
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherjh0405&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herjh0405@gmail.com)](mailto:herjh0405@gmail.com)
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherjh0405&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
