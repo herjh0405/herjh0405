@@ -10,13 +10,13 @@ If you want to contact me, please leave me a message.
 
 ### 💫 Experience
 
-1. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Project/tree/master/Project4_YPolaris)
+1. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
 
-2. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/tree/master/Project5_NIMS)
+2. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [repo](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
 
-3. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [repo](https://github.com/herjh0405/Project/tree/master/Project2_MIRAESSET)
+3. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/blob/master/Project5_NIMS/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
 
-4. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/tree/master/Project3_KDX)
+4. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
