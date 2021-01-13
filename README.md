@@ -19,7 +19,7 @@ If you want to contact me, please leave me a message.
 4. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
 
- [![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherjh0405&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herjh0405@gmail.com)](mailto:herjh0405@gmail.com)
 <a href="https://www.instagram.com/hun._.jung/">
