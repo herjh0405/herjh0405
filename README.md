@@ -16,7 +16,7 @@ If you want to contact me, please leave me a message.
 
 3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
-### Business Item
+### 👔 Business Item
 
 1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/recommend-system)
 
