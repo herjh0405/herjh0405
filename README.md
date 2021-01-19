@@ -14,9 +14,13 @@ If you want to contact me, please leave me a message.
 
 2. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [repo](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
 
-3. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/blob/master/Project5_NIMS/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
-4. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
+### 🏆 Award & Education
+
+1. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/blob/master/Project5_NIMS/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+
+
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
