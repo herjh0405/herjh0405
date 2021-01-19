@@ -16,11 +16,15 @@ If you want to contact me, please leave me a message.
 
 3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
-### 🏆 Award & Education
+### Business Item
+
+1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/recommend-system)
+
+### 🏆 Award & License
 
 1. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/blob/master/Project5_NIMS/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
 
-
+2. [Kdata] SQLD - 2020.12.29
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
