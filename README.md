@@ -14,7 +14,8 @@ If you want to contact me, please leave me a message.
 
 2. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
 
-3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : [repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/Topology.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
+3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
+[repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/Topology.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
 
 4. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [repo](https://github.com/herjh0405/Project/blob/master/Project1/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 / [code](https://github.com/herjh0405/Project/blob/master/Project1/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
