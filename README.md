@@ -40,7 +40,7 @@ If you want to contact me, please leave me a message.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)]
 
 
 
