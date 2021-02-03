@@ -20,6 +20,11 @@ If you want to contact me, please leave me a message.
 4. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [repo](https://github.com/herjh0405/Project/blob/master/Project1/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 / [code](https://github.com/herjh0405/Project/blob/master/Project1/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
 
+
+### 📄 Paper Research
+
+1. [부산대학교 산업수학센터] Glaucoma prediction with AI : [repo](https://github.com/herjh0405/Glaucoma)
+
 ### 👔 Business Item
 
 1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/recommend-system)
