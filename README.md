@@ -27,7 +27,7 @@ If you want to contact me, please leave me a message.
 
 ### 👔 Business Item
 
-1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/recommend-system)
+1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Startup/tree/master/Personalized-contest-recommendation-system)
 
 ### 🏆 Award & License
 
