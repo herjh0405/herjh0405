@@ -25,9 +25,11 @@ If you want to contact me, please leave me a message.
 
 1. [부산대학교 산업수학센터] Glaucoma prediction with AI : [repo](https://github.com/herjh0405/Glaucoma)
 
-### 👔 Business Item
+### 👔 Startup
 
 1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
+
+2. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
 
 ### 🏆 Award & License
 
