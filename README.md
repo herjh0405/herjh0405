@@ -24,10 +24,10 @@ If you want to contact me, please leave me a message.
 
 ### 💫 Contest
 
-1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
+1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Contest/blob/master/MIRAESSET/Topology.ipynb)
 
 2. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
-[repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/Topology.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
+[report](https://github.com/herjh0405/Contest/blob/master/KDX/Topology.pdf) / [code](https://github.com/herjh0405/Contest/blob/master/KDX/final_analysis%20.ipynb)
 
 ### 📖 Study
 
