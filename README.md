@@ -8,18 +8,9 @@ I ❤️ to study about Machine Learning and Deep Learning.
 
 If you want to contact me, please leave me a message.
 
-### 💫 Experience
+### 💼 Company & Intern
 
 1. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
-
-2. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
-
-3. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
-[repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/Topology.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
-
-4. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [repo](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
-/ [code](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
-
 
 ### 📄 Paper Research
 
@@ -30,6 +21,16 @@ If you want to contact me, please leave me a message.
 1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
 
 2. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
+
+### 💫 Contest & Study
+
+1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
+
+2. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
+[repo](https://github.com/herjh0405/Project/blob/master/Project3_KDX/Topology.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project3_KDX/final_analysis%20.ipynb)
+
+3. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [repo](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+/ [code](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
 
 ### 🏆 Award & License
 
