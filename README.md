@@ -40,7 +40,7 @@ If you want to contact me, please leave me a message.
 
 ### 🏆 Award & License
 
-1. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Project/blob/master/Project5_NIMS/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+1. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
 
 2. [Kdata] SQLD - 2020.12.29
 
