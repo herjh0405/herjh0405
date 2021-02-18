@@ -10,7 +10,7 @@ If you want to contact me, please leave me a message.
 
 ### 💼 Company & Intern
 
-1. [YPolaris] Short-term industrial cooperation Project - Leader / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
+1. [YPolaris] Short-term industrial cooperation Project / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) / [code](https://github.com/herjh0405/Project/blob/master/Project4_YPolaris/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
 
 ### 📄 Paper Research
 
