@@ -18,9 +18,9 @@ If you want to contact me, please leave me a message.
 
 ### 👔 Startup
 
-1. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
+1. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
 
-2. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
+2. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
 
 ### 💫 Contest
 
