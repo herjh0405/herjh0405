@@ -22,7 +22,7 @@ If you want to contact me, please leave me a message.
 
 2. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
 
-### 💫 Contest & Study
+### 💫 Contest
 
 1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Project/blob/master/Project2_MIRAESSET/Topology.ipynb)
 
