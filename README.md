@@ -35,7 +35,7 @@ If you want to contact me, please leave me a message.
 
 2. Kaggle [repo](https://github.com/herjh0405/Kaggle)
 
-3. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [repo](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+3. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [report](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 / [code](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
 
 ### 🏆 Award & License
