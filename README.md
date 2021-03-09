@@ -40,9 +40,11 @@ If you want to contact me, please leave me a message.
 
 ### 🏆 Award & License
 
-1. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+1. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상 수상 - 나의 작은 생태계
 
-2. [Kdata] SQLD - 2020.12.29
+2. [NIMS] Industrial Mathematics Academy the Excellence award - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+
+3. [Kdata] SQLD - 2020.12.29
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
