@@ -18,7 +18,7 @@ If you want to contact me, please leave me a message.
 
 ### 👔 Startup
 
-1. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem) / [cde](https://github.com/herjh0405/My_Tiny_Ecosystem/blob/master/Environment_service.ipynb)
+1. [나의 작은 생태계] My Tiny Ecosystem : [repo](https://github.com/herjh0405/My_Tiny_Ecosystem) / [code](https://github.com/herjh0405/My_Tiny_Ecosystem/blob/master/Environment_service.ipynb)
 
 2. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
 
@@ -42,7 +42,7 @@ If you want to contact me, please leave me a message.
 1. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상 수상(2021.03.23) - EyePedia
 
 
-2. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상 수상(2021.03.09) - 나의 작은 생태계
+2. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상 수상(2021.03.09) - 나의 작은 생태계 [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
 
 3. [NIMS] Industrial Mathematics Academy the Excellence award(2020.11.08) - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
 
