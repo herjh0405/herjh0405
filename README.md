@@ -4,7 +4,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edu0405/)](www.linkedin.com/in/edu0405/)
 <a href="https://www.instagram.com/hun._.jung/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/hun._.jung/"
+        src="http://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&link=https://www.instagram.com/hun._.jung/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
