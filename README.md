@@ -15,8 +15,8 @@
 
 ### 🏆 Award & License
 1. [NIMS] Industrial Mathematics Academy the Excellence award(1st) - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb) (2020.11.08)
-2. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상(4th) - EyePedia (2021.03.23)
-3. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상(2nd) - 나의 작은 생태계 [repo](https://github.com/herjh0405/My_Tiny_Ecosystem) / [code](https://github.com/herjh0405/My_Tiny_Ecosystem/blob/master/Environment_service.ipynb) (2021.03.09)
+2. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상(2nd) - 나의 작은 생태계 [repo](https://github.com/herjh0405/My_Tiny_Ecosystem) / [code](https://github.com/herjh0405/My_Tiny_Ecosystem/blob/master/Environment_service.ipynb) (2021.03.09)
+3. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상(4th) - EyePedia (2021.03.23)
 4. [Kdata] SQLD (2020.12.29) / [Kdata] ADsP (2021.04.09)
 
 ---
