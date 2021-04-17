@@ -7,8 +7,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
-
+<div style = "float:left;">
 ### Hi there 👋
 
 Good day! I`m Junghun Heo who is interested in Data Science from South Korea.
@@ -18,7 +17,11 @@ I ❤️ to study about Machine Learning and Deep Learning.
 💪 My major is Mathematics & Computer engineering 😄
 
 If you want to contact me, please leave me a message.
+</div>
+<div style = "float:right;">
+![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
 
+</div>
 ### 💼 Company & Intern
 
 1. [YPolaris] Short-term industrial cooperation Project / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML) / [code](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML/blob/master/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
