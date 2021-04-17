@@ -1,9 +1,14 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherjh0405&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herjh0405@gmail.com)](mailto:herjh0405@gmail.com)
+<a href="https://www.instagram.com/hun._.jung/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hun._.jung/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
 
 
-<div style = "float:left;">
 ### Hi there 👋
 
 Good day! I`m Junghun Heo who is interested in Data Science from South Korea.
@@ -13,15 +18,6 @@ I ❤️ to study about Machine Learning and Deep Learning.
 💪 My major is Mathematics & Computer engineering 😄
 
 If you want to contact me, please leave me a message.
-</div>
-<div style = "float:right;">
-<a href="https://www.instagram.com/hun._.jung/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hun._.jung/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
-</div>
 ### 💼 Company & Intern
 
 1. [YPolaris] Short-term industrial cooperation Project / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML) / [code](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML/blob/master/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
