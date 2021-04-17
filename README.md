@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=herjh0405.visitor-badge) -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherjh0405&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herjh0405@gmail.com)](mailto:herjh0405@gmail.com)
 <a href="https://www.instagram.com/hun._.jung/">
@@ -7,6 +7,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 ![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herjh0405&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
