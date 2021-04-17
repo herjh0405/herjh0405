@@ -44,6 +44,13 @@
 
 2. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
 
+### 💫 Contest
+1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Contest/blob/master/MIRAESSET/Topology.ipynb)
+
+2. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
+[report](https://github.com/herjh0405/Contest/blob/master/KDX/Topology.pdf) / [code](https://github.com/herjh0405/Contest/blob/master/KDX/final_analysis%20.ipynb)
+
+
 ### 📖 Study
 
 1. Algorithm Study [repo](https://github.com/herjh0405/PROJECT_Algorithm_Study)
