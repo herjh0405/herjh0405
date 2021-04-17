@@ -11,8 +11,9 @@
 
 ![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
 
-### Hi there 👋
-
+### Hi there 👋 
+<details>
+ <summary> <b> [Intro] </b> <i>(:point_left:Click)</i> </summary>
 Good day! I`m Junghun Heo who is interested in Data Science from South Korea.
 
 I ❤️ to study about Machine Learning and Deep Learning.   
