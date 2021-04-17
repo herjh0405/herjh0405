@@ -14,6 +14,7 @@
 ### Hi there 👋 
 <details>
  <summary> <b> [Intro] </b> <i>(:point_left:Click)</i> </summary>
+ 
 Good day! I`m Junghun Heo who is interested in Data Science from South Korea.
 
 I ❤️ to study about Machine Learning and Deep Learning.   
@@ -21,6 +22,8 @@ I ❤️ to study about Machine Learning and Deep Learning.
 💪 My major is Mathematics & Computer engineering 😄
 
 If you want to contact me, please leave me a message.
+
+</details>
 
 ### 🏆 Award & License
 1. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상 수상(2021.03.23) - EyePedia
