@@ -7,12 +7,17 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+```HTML
+<!DOCTYPE html>
+<html>
+ <body>
 <div style="float:left;">
 ![Hun's github stats](https://github-readme-stats.vercel.app/api?username=herjh0405&count_private=true&show_icons=true&theme=ayu-mirage)
  </div>
  <div style="float:right;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herjh0405&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+  </head>
 
 ### Hi there 👋
 
