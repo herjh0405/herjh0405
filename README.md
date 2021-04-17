@@ -20,6 +20,16 @@ I ❤️ to study about Machine Learning and Deep Learning.
 💪 My major is Mathematics & Computer engineering 😄
 
 If you want to contact me, please leave me a message.
+
+### 🏆 Award & License
+1. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상 수상(2021.03.23) - EyePedia
+
+2. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상(2th) 수상(2021.03.09) - 나의 작은 생태계 [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
+
+3. [NIMS] Industrial Mathematics Academy the Excellence award(2020.11.08) - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
+
+4. [Kdata] SQLD - 2020.12.29 / [Kdata] ADsP - 2021.04.09
+
 ### 💼 Company & Intern
 
 1. [YPolaris] Short-term industrial cooperation Project / Development of commercial area analysis service using ML : [repo](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML) / [code](https://github.com/herjh0405/Commercial_area_analysis_service_using_ML/blob/master/%EB%B6%84%EC%84%9D%ED%8C%80_%EC%9E%91%EC%97%85%EC%9E%90%EB%A3%8C/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%9D%EA%B4%84%20%ED%8C%8C%EC%9D%BC.ipynb)
@@ -34,13 +44,6 @@ If you want to contact me, please leave me a message.
 
 2. [수상한 멘토링] Personalized contest recommendation system : [repo](https://github.com/herjh0405/Personalized-contest-recommendation-system)
 
-### 💫 Contest
-
-1. [MIRAE ASSET] 2020 Financial Big Data Festival - Leader / Prediction of top stocks to buy by group : [code](https://github.com/herjh0405/Contest/blob/master/MIRAESSET/Topology.ipynb)
-
-2. [KDX] Consumption trend KOREA 2020 - Consumption trend Visualization Competition : 
-[report](https://github.com/herjh0405/Contest/blob/master/KDX/Topology.pdf) / [code](https://github.com/herjh0405/Contest/blob/master/KDX/final_analysis%20.ipynb)
-
 ### 📖 Study
 
 1. Algorithm Study [repo](https://github.com/herjh0405/PROJECT_Algorithm_Study)
@@ -50,17 +53,7 @@ If you want to contact me, please leave me a message.
 3. [개인] 서울특별시 4대 궁 및 종묘 한복대여점 창업 분석 : [report](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 / [code](https://github.com/herjh0405/University-class/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/project_201511152_%ED%97%88%EC%A0%95%ED%9B%88.ipynb)
 
-### 🏆 Award & License
-1. [한국무역협회] 스타트업과 함께하는 피버팅 해커톤 우수상 수상(2021.03.23) - EyePedia
 
-
-2. [환경빅데이터플랫폼] 혁신서비스 아이디어 공모전 우수상 수상(2021.03.09) - 나의 작은 생태계 [repo](https://github.com/herjh0405/My_Tiny_Ecosystem)
-
-3. [NIMS] Industrial Mathematics Academy the Excellence award(2020.11.08) - Counting Dandelion Flower Population : [repo](https://github.com/herjh0405/Image_Detection-Counting_Dandelion) / [code](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/My_Detectron_ipynb%EC%9D%98_Faster_Rcnn%2C_Retinanet.ipynb)
-
-3. [Kdata] SQLD - 2020.12.29
-
-4. [Kdata] ADsP - 2021.04.09
 
 
 
